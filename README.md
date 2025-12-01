@@ -25,7 +25,7 @@ Inside the ZIP:
 - `bifurcation.csv` — (r, x) data from the simulation  
 
 The PNG is the main visualization.  
-The raw files are included for completeness.
+The raw files are included for completeness.  
 **Note:** A copy of the bifurcation PNG is kept in the `out/` folder for easy access.
 
 ---
